@@ -78,6 +78,11 @@ Helps in preventing overfitting and makes the model robust to different image or
 
 ---
 
+![Alt Text](/fig.png)
+
+
+---
+
 ## 💻 Requirements
 
 - Python 3.x
@@ -88,5 +93,10 @@ Helps in preventing overfitting and makes the model robust to different image or
 
 ---
 
-## 📂 Project Structure
+## 📬 Contact
+If you have any questions or suggestions, feel free to reach out! 😊  
+
+📧 **Email:** souravkumarr77@gmail.com  
+🔗 **LinkedIn:** [Sourav Kumar](https://www.linkedin.com/in/sourav-kumar-30141b174/)  
+🔗 **X:** [Sourav Kumar](https://x.com/souravkumarr73)  
 
